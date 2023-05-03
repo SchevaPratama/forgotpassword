@@ -1,0 +1,10 @@
+[    
+    {        
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.banyuwangi_hijau",
+            "sha256_cert_fingerprints": ["DC:B1:4E:57:39:7F:DB:79:D6:22:93:82:7E:47:7D:6A:9D:50:7A:C9:DB:DE:84:9F:06:55:08:6A:8F:2A:4B:63"]
+        }
+    }
+]
